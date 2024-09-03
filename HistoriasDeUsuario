@@ -1,8 +1,0 @@
-## Historia de Usuario 1
-**ID**: 1
-**Rol**: Usuario
-**Funcionalidad**: Ingresar datos personales (nombre y edad)
-**Razón/Resultado**: Para que el sistema pueda registrar y mostrar los datos ingresados por el usuario.
-**Condiciones**: El usuario debe poder ingresar su nombre y edad a través del teclado.
-**Tiempo estimado**: 1 hora
-**Prioridad**: 1
